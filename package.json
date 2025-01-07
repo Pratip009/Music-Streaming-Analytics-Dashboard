@@ -17,8 +17,7 @@
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.1.1",
     "recharts": "^2.15.0",
-    "streamify-dashboard": "file:",
-    "tailwindcss": "^3.4.17"
+    "streamify-dashboard": "file:"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
